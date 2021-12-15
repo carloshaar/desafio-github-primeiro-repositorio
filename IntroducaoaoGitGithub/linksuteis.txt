@@ -1,0 +1,3 @@
+Link para download do GIT - https://git-scm.com/downloads
+
+Git Bash é um terminal que aceita comandos Linux, independente do SO.
